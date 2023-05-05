@@ -1,0 +1,16 @@
+body{
+    background-color: palevioletred;
+    color:white;
+}
+.heading{
+    width:80%;
+    font-size:xx-large;
+}
+.objects{
+    color:rgb(0, 32, 91);
+}
+#camera{
+    border:3px ridge rgb(0, 32, 91);
+    width:410px;
+    height:310px;
+}
